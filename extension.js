@@ -2,7 +2,7 @@
  * Simple AI Assistant
  * Copyright (C) 2026 Momen Elkhalifa
  *
- * This Branch is maintained by Fernando Diaz since March 2 2026
+ * This fork is maintained by Fernando Diaz since March 2 2026
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
