@@ -161,7 +161,7 @@
 }
 
 /* Generalized Button Style (Action Buttons) */
-.button,
+.simple-ai-button,
 .run-button,
 .cancel-button {
 	padding: 6px 16px;
@@ -176,7 +176,7 @@
 	font-weight: bold;
 }
 
-.button:hover,
+.simple-ai-button:hover,
 .run-button:hover,
 .cancel-button:hover {
 	background-color: rgba(128, 128, 128, 0.25);

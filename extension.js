@@ -177,7 +177,7 @@ export default class SimpleAiAssistantExtension extends Extension {
 		settingsBtn.connect("clicked", () => this.openPreferences());
 
 		const newChatBtn = new St.Button();
-		newChatBtn.style_class = "button";
+		newChatBtn.style_class = "simple-ai-button";
 		newChatBtn.label = "New Chat";
 		newChatBtn.connect("clicked", () => this._newChat());
 
